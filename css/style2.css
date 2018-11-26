@@ -1,0 +1,26 @@
+#upperbody{
+	    background-color: #212F3D  ;
+        width: 85%; 
+		margin: auto;
+		color :white ;
+        font-size: 3em;
+		font-weight: normal;
+			
+}
+#middlebody{
+	width: 85%; 
+	margin: auto;
+	
+}
+#leftebody{
+	width:35%; 
+	background-color: #808B96 ;
+}
+#righttebody{
+	width:65%; 	
+	background-color: #ffffff ;
+}
+body{
+	 background-color: #F5F5F5 ;
+	 height: 100%;
+}
